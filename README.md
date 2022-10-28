@@ -10,3 +10,5 @@ SetColorDesign-JS
 5) Цвета палитры фиксируются в URL страницы и можно делиться ссылкой без потери цветовой палитры.![2022-10-28_09-52-10](https://user-images.githubusercontent.com/101303690/198481729-39d5c886-61f4-46ea-9dd6-29d7e931737d.png)
 
 ![2022-10-28_09-52-10](https://user-images.githubusercontent.com/101303690/198481766-9f3bb580-76c9-4b62-8b45-a987b2536508.png)
+
+https://zelenkov4462.github.io/SetColorDesign-JS/
